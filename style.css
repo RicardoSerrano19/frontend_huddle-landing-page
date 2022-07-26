@@ -17,3 +17,11 @@ html {
     font-weight: 300;
     /*font-family: 'Open Sans', sans-serif;*/
 }
+
+body{
+    background-image: url('./images/bg-mobile.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-color: var(--violet);
+}
