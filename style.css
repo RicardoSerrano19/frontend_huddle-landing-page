@@ -26,6 +26,12 @@ body{
     background-color: var(--violet);
     margin: 2rem;
 }
+
+/*Header */
+.header__img{
+    max-width: 10rem;
+}
+
 /* Mockup */
 .container__mockup__img{
     width: 100%;
