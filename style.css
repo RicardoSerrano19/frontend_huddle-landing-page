@@ -25,6 +25,10 @@ body{
     background-size: cover;
     background-color: var(--violet);
 }
+/* Mockup */
+.container__mockup__img{
+    width: 100%;
+}
 
 /* Content */
 .container__content{
