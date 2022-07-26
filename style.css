@@ -22,6 +22,7 @@ body{
     background-image: url('./images/bg-mobile.svg');
     background-repeat: no-repeat;
     height: 100%;
+    min-width: 25rem;
     background-size: cover;
     background-color: var(--violet);
     margin: 2rem;
