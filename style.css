@@ -24,10 +24,12 @@ body{
     height: 100%;
     background-size: cover;
     background-color: var(--violet);
+    margin: 2rem;
 }
 /* Mockup */
 .container__mockup__img{
     width: 100%;
+    margin: 4rem 0;
 }
 
 /* Content */
@@ -75,6 +77,7 @@ body{
 footer{
     display: flex;
     justify-content: center;
+    margin-top: 5rem;
 }
 
 ion-icon{
