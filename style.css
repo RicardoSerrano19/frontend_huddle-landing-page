@@ -65,6 +65,12 @@ body{
    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
 
+.container__content__button:hover{
+    background-color: var(--soft-magenta);
+    color: white;
+    cursor:pointer;
+}
+
 /* Footer */
 footer{
     display: flex;
